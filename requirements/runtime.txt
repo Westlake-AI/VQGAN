@@ -1,0 +1,14 @@
+albumentations
+einops
+imageio
+imageio-ffmpeg
+opencv-python
+omegaconf
+more-itertools
+numpy
+packaging
+pudb
+pytorch-lightning==1.1.2
+# streamlit
+test-tube
+transformers
